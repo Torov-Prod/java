@@ -15,3 +15,5 @@ create web client or desctop
 вопросы: создание сервера - начнем с азов, что является первым у взгяда? конечно надо сделать сервер где будет реализованна прием и отдача чего-либо
 
 начал с https://javarush.ru/groups/posts/654-klassih-socket-i-serversocket-ili-allo-server-tih-menja-slihshishjh
+
+в первой ветке start, указал первые попытки создания сервера и клиента, едем дальше
